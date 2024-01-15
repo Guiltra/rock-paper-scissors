@@ -8,7 +8,6 @@
 }
 
 body{
-    zoom: 0.5;
     height: 100vh;
     background: linear-gradient(#343a40, #212529);
 
@@ -18,6 +17,7 @@ body{
 }
 
 .container{
+    zoom: 0.75;
     display: flex;
     flex-direction: column;
     justify-content: center;
